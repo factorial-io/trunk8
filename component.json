@@ -1,8 +1,17 @@
 {
   "name": "trunk8",
-  "version": "1.3.3-4",
-  "main": "./trunk8.js",
+  "repo": "factorial-io/trunk8",
+  "version": "1.3.4",
+  "styles": [],
+  "scripts": ["trunk8.js"],
+  "templates": [],
   "dependencies": {
-    "jquery": ">=1"
+    "components/jquery": "*"
+  },
+  "license": "MIT",
+  "backend": {
+    "template": "",
+    "fixture": {
+    }
   }
 }
